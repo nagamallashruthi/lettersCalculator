@@ -1,0 +1,43 @@
+/* Write your code here. */
+.container {
+  height: 100vh;
+  background-image: linear-gradient(#1d976c, #93f9b9);
+}
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 120px;
+}
+.head {
+  color: white;
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+.para {
+  color: white;
+  font-family: 'roboto';
+  font-size: 9px;
+}
+.search {
+  border: 1px solid white;
+  background: none;
+  color: white;
+}
+.p {
+  height: 40px;
+  width: 150px;
+  background-color: white;
+  color: #1d976c;
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+.img {
+  height: 260px;
+  width: 260px;
+}
